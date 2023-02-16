@@ -1,0 +1,14 @@
+label {
+  cursor: pointer;
+}
+
+input {
+  display: none;
+}
+
+nav button {
+  transition: 0.3s ease-in;
+}
+nav button:hover {
+  transform: scale(1.3);
+}/*# sourceMappingURL=styles.css.map */

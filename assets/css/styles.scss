@@ -1,0 +1,18 @@
+
+
+label{
+    cursor: pointer;
+}
+
+input{
+    display: none;
+}
+
+nav{
+    button{
+        transition: .3s ease-in;
+    }
+    button:hover{
+        transform: scale(1.3);
+    }
+}
